@@ -140,3 +140,10 @@ sequenceDiagram
         결제 -->>- 사용자: 잔액 부족
     end
 ```
+
+## ERD 설계
+![ERD설계_최종](https://github.com/kmson-92/hhplus-concert-booking/assets/173142901/9a0e008d-f688-462f-b672-3f95ed95da2b)
+
+
+## API 명세서
+
