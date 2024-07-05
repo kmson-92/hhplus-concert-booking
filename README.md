@@ -61,6 +61,10 @@
 - 결제가 완료되면 해당 좌석의 소유권을 유저에게 배정하고 대기열 토큰을 만료시킵니다.
 
 
+## 마일스톤
+![마일스톤](https://github.com/kmson-92/hhplus-concert-booking/assets/173142901/a7732e83-df3d-4135-9c89-5fcedec9ab6e)
+
+
 ## Seqeunce Diagram
 ### 대기열 토큰 발급 API
 ```mermaid
@@ -144,6 +148,8 @@ sequenceDiagram
 ## ERD 설계
 ![ERD설계_최종](https://github.com/kmson-92/hhplus-concert-booking/assets/173142901/9a0e008d-f688-462f-b672-3f95ed95da2b)
 
-
 ## API 명세서
+
+
+
 
